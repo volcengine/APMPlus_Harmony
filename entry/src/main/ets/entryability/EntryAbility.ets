@@ -3,7 +3,7 @@ import hilog from '@ohos.hilog';
 import UIAbility from '@ohos.app.ability.UIAbility';
 import Want from '@ohos.app.ability.Want';
 import window from '@ohos.window';
-import { APMPlus, LaunchTrace } from '@volcengine/apmplus';
+import { LaunchTrace } from '@volcengine/apmplus';
 import { APMPlusTask } from '../apm/APMPlusTask';
 
 export default class EntryAbility extends UIAbility {

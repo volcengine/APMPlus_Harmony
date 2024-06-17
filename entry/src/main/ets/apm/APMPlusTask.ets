@@ -1,7 +1,6 @@
 import BuildProfile from 'BuildProfile';
 import { APMPlus, APMPlusBuilder } from '@volcengine/apmplus';
 
-
 /**
  * @wangtao
  * @date 2024/3/13
