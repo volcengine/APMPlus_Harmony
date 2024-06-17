@@ -1,0 +1,6 @@
+{
+  "name": "libnative_lib.so",
+  "types": "./index.d.ts",
+  "version": "1.0.0",
+  "description": "npth test."
+}

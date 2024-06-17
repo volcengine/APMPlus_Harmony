@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libnative_lib.so": "file:./src/main/cpp/types/libnative_lib",
+    "@volcengine/apmplus": "latest"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}

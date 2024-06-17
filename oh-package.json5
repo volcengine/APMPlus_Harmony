@@ -1,0 +1,15 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "APMPlusHarmonyDemo",
+  "version": "1.0.0",
+  "description": "APMPlus Harmony SDK Demo",
+  "main": "",
+  "author": "APMPlus",
+  "license": "",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.11"
+  },
+  "dynamicDependencies": {}
+}
