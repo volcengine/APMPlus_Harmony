@@ -41,3 +41,7 @@ SDK初始化需要尽早完成，建议在 AbilityStage 或者 Ability 的 onCre
 ## 三、更多信息
 更详细的接入文档、功能介绍、最佳实践请参考【应用性能监控全链路版】 https://www.volcengine.com/docs/6431/69088 也可以在官网咨询在线客服获取更多支持。
 
+## Security and privacy
+This project takes security seriously.
+For vulnerability reporting and supported versions, see [SECURITY.md](SECURITY.md)
+
